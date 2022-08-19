@@ -7,11 +7,11 @@
 Instalacion de NodeJS
 https://nodejs.org/es/download/
 
-# Iniciar la aplicación
+### Iniciar la client
 
 npm start
 
-# Iniciar el servidor
+### Iniciar el servidor
 
 npm run dev
 
